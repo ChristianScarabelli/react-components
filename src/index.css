@@ -29,4 +29,7 @@ img {
 
 .page-title {
   text-align: center;
+  font-weight: lighter;
+  padding-top: 1.5em;
+  background-color: rgb(229, 226, 226);
 }

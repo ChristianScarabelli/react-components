@@ -1,5 +1,4 @@
 import Card from './Card/Card.jsx'
-import Button from './ui/Button/Button.jsx'
 
 export default function Main() {
     return (
@@ -8,8 +7,8 @@ export default function Main() {
                 <div className='container'>
                     <h1 className='page-title'>Il mio blog</h1>
                 </div>
+                <Card />
             </main>
-
         </>
     )
 }
