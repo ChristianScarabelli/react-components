@@ -1,3 +1,9 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0;
+}
+
 .pageFooter {
     color: white;
     background-color: rgb(47, 47, 47);
