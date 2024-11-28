@@ -5,7 +5,7 @@ import Button from '../ui/Button/Button.jsx'
 export default function Card() {
     return (
         <>
-            <div className={style.container}>
+            <div className="container">
                 <div className={style.card}>
                     <figure className={style.image}>
                         <img className={style.thumb} src={img} alt="" />
